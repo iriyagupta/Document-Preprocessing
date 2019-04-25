@@ -1,2 +1,4 @@
 # DocumentPreprocessing
-For the correction of skew 
+
+
+Preprocessing of images with skew problems
